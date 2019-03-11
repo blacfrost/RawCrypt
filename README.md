@@ -1,5 +1,6 @@
 # RawCrypt
-Basic repo of the RawCrypt.com code. 
+This is a basic repo of the RawCrypt.com code. 
+
 This website is built upon the Laravel framework and as such, I am unable to upload all 14k files involved in make the site function the way it does.
 
 The included code is the basis of how the website functions. 
